@@ -1,0 +1,26 @@
+{
+  "name": "todo",
+  "version": "0.0.1",
+  "description": "Todo list",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZiomaleQ/ToDo.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "ZiomaleQ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZiomaleQ/ToDo/issues"
+  },
+  "homepage": "https://github.com/ZiomaleQ/ToDo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mime": "^2.4.5"
+  }
+}
